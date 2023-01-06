@@ -31,7 +31,7 @@ some CSS as well.  Some HTML/CSS research might be required.
 
 1 point each for:
 - Arial font
-- Fall back to a sans-serif font if Arial isn't installed
+- Fall back to a system sans-serif font if Arial isn't installed
 - Image is 200px by 200px
 - Image floated right
 - Ruled lines are implemented as `border` attributes
